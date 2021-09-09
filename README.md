@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello👋
 
 <!--
 **Askar312/Askar312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
