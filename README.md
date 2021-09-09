@@ -1,5 +1,3 @@
-Добро пожоловать!
-![Image alt](https://github.com/Askar312/Askar312/blob/main/JaGs.gif)
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -11,4 +9,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
+
+![Image alt](https://github.com/Askar312/Askar312/blob/main/JaGs.gif)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
