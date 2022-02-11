@@ -16,3 +16,11 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=github)](https://github.com/ShairbekovBakyt)
 ![Vscodium](https://img.shields.io/badge/-VScodium-090909?style=plastic&logo=VisualStudio)
 
+# Achievement
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahimov27&theme=monokai)
